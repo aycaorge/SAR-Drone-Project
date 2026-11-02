@@ -1,0 +1,6 @@
+{
+  "gimbal_ip": "192.168.144.108",
+  "udp_port": 5000,
+  "max_speed": 80,
+  "rtsp_url": "rtsp://192.168.144.108:554/stream=2"
+}

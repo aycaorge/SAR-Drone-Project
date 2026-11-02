@@ -1,0 +1,3 @@
+/home/thermaljetson1/Desktop/Proje_Hersey/c12_project/build/CMakeFiles/c12_app.dir
+/home/thermaljetson1/Desktop/Proje_Hersey/c12_project/build/CMakeFiles/edit_cache.dir
+/home/thermaljetson1/Desktop/Proje_Hersey/c12_project/build/CMakeFiles/rebuild_cache.dir
